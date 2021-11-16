@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**baptiste-arrecot/baptiste-arrecot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Baptiste ARRECOT, an IT Student from France.
+Currently studying in my third year at [Epitech](https://github.com/epitech/)
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:baptiste.arrecot64400@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="baptiste.arrecot64400@gmail.com" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/baptiste-arrecot-78155b19a/" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin.png" alt="Baptiste ARRECOT linkedIN page" height="40" width="40" /></a>
+<h3 align="left">Here's my stats:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"></h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baptiste-arrecot&show_icons=true&theme=dracula&locale=en&layout=compact&hide=html" alt="baptiste-arrecot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baptiste-arrecot&show_icons=true&theme=dracula&locale=en" alt="baptiste-arrecot" /></p>
+
+![](https://komarev.com/ghpvc/?username=baptiste-arrecot&style=flat-square&color=red)
+
+
+
+<h3 align="left">My currents interests</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"      width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
