@@ -1,7 +1,7 @@
 # Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Baptiste ARRECOT, an IT Student from France.
-Currently studying in my third year at [Epitech](https://github.com/epitech/)
+Currently studying in my fourth year at [Epitech](https://github.com/epitech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
