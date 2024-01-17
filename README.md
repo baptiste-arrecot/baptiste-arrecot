@@ -19,10 +19,10 @@
 <p align="left"> 
   <strong>Environmental & Green Tech:</strong>
   <br/>
-  - [Eco-hosting](#)
-  - [Sustainable Development](#)
-  - [Green Computing](#)
-  - [Eco-friendly Practices](#)
+  - Eco-hosting<br/>
+  - Sustainable Development<br/>
+  - Green Computing<br/>
+  - Eco-friendly Practices]<br/>
 </p>
 
 <h3 align="left">Languages and Technologies:</h3>
